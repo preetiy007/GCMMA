@@ -1,0 +1,7 @@
+﻿  GCMMASolver.cpp
+D:\Hiwi\GCMMA\GCMMA\GCMMA\GCMMASolver.cpp(8,82): error C2882: 'std': illegal use of namespace identifier in expression
+D:\Hiwi\GCMMA\GCMMA\GCMMA\GCMMASolver.cpp(9,1): error C2612: trailing 'end of file' illegal in base/member initializer list
+D:\Hiwi\GCMMA\GCMMA\GCMMA\GCMMASolver.cpp(9,1): fatal error C1004: unexpected end-of-file found
+  Source.cpp
+D:\Hiwi\GCMMA\GCMMA\GCMMA\Source.cpp(1,1): error C2059: syntax error: '/'
+  Generating Code...
